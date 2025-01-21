@@ -1,8 +1,6 @@
 #demo
 
--> You can view the live demo [here](https://YOUSSEF-ETTABAA.io/javascript-calculator/).
-
-
+-> You can view the live demo [here](https://youssef-ettabaa.github.io/javascript-calculator/).
 
 # React + Vite
 
